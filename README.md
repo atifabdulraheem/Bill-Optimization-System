@@ -58,3 +58,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please contact [Atif-hub24](https://github.com/Atif-hub24).
+
+![Bill Review](https://github.com/atifabdulraheem/Bill-Optimization-System/blob/main/Bill%20Review.jpg)
+```
+
+You can update the `README.md` file with the content above. If you need help with committing the changes, please let me know!
