@@ -57,9 +57,6 @@ We welcome contributions to the Bill Optimization System. To contribute, follow 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Atif-hub24](https://github.com/Atif-hub24).
+For any questions or feedback, please contact [atifabdulraheem](https://github.com/atifabdulraheem).
 
 ![Bill Review](https://github.com/atifabdulraheem/Bill-Optimization-System/blob/main/Bill%20Review.jpg)
-```
-
-You can update the `README.md` file with the content above. If you need help with committing the changes, please let me know!
