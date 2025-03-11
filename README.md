@@ -16,7 +16,6 @@ To run the Bill-Optimization-System locally, follow these steps:
 
 Here is an updated `README.md` file for your `Bill-Optimization-System` Python project, including an overview section with four images:
 
-`    ```
 
 ## Usage
 To start the application, run the following command:
