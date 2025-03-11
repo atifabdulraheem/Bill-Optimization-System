@@ -14,31 +14,19 @@ Bill-Optimization-System is a comprehensive solution designed to optimize and ma
 ## Installation
 To run the Bill-Optimization-System locally, follow these steps:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/atifabdulraheem/Bill-Optimization-System.git
-    ```
+Here is an updated `README.md` file for your `Bill-Optimization-System` Python project, including an overview section with four images:
 
-2. Navigate to the project directory:
-    ```bash
-    cd Bill-Optimization-System
-    ```
-
-3. Install the dependencies:
-    ```bash
-    npm install
-    ```
+`    ```
 
 ## Usage
 To start the application, run the following command:
 ```bash
-npm start
+python main.py
 ```
-
-Open your browser and navigate to `http://localhost:3000` to see the Bill-Optimization-System in action.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
