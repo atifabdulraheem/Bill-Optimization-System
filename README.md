@@ -1,7 +1,7 @@
 # Bill-Optimization-System
 
 ## Overview
-![Bill Optimization System Image 1](path/to/your/image1.png)
+![Bill Optimization System Image](https://github.com/atifabdulraheem/Bill-Optimization-System/blob/main/Bill%20Review.jpg)
 
 Bill-Optimization-System is a comprehensive solution designed to optimize and manage utility bills effectively. It provides insights and analytics to help users reduce their costs and improve efficiency.
 
